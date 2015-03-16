@@ -1,0 +1,12 @@
+description
+author
+start
+on
+runlevel
+stop
+script
+end
+setuid
+setgid
+env
+respawn
